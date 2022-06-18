@@ -1,5 +1,5 @@
 # Problema-MVP
-contexto: Actualmente vivo en bolivia (desde fines del año pasado).
+Contexto: Actualmente vivo en bolivia (desde fines del año pasado).
 --------------------------------------------------------------------
 
 * PROBLEMA:El mercado aca en Bolivia-La Paz es muy informal, la gente vende todo por marketplace (facebook), no hay algo que centralice todas las ofertas de ningun producto ya sean automotores-electronica etc. hay una pagina de mercadolibre pero no se utiliza por que no la conoce nadie, las paginas web de las tiendas son muy primarias y no todas pueden acceder al costo de una supongo. 
